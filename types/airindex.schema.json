@@ -72,17 +72,17 @@
       "example": 12.9
     },
      "px": {
-      "description": "Price",
+      "description": "",
       "type": "number",
       "example": "Search"
     },
      "subset": {
-      "description": "Adwords network type",
+      "description": "",
       "type": "boolean",
       "example": "true"
     },
      "sx": {
-      "description": "Searches",
+      "description": "",
       "type": "number",
       "example": "Search"
     },
@@ -91,24 +91,24 @@
       "type": "string",
       "example": "1705201000_1704201000_1706251255_ALL"
     },
-     "from_date": {
-      "description": "Adwords network type",
-      "type": "timestamp",
+    "from_date": {
+      "description": "Departure Date",
+      "type": "string",
       "example": "2017-04-20 10:00:00"
     },
-     "to_date": {
-      "description": "Adwords network type",
-      "type": "timestamp",
+    "to_date": {
+      "description": "Return Date",
+      "type": "string",
       "example": "2017-05-20 10:00:00"
     },
      "xid": {
-      "description": "Adwords network type",
+      "description": "",
       "type": "string",
       "example": "1705201000_1704201000_1706251255_xx:ACA>AGU"
     },
-     "__createdat": {
+    "__createdat": {
       "description": "Record creation date",
-      "type": "timestamp",
+      "type": "string",
       "example": "2017-06-25 13:00:17"
     }
   },
