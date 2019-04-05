@@ -50,7 +50,7 @@
         "type": "number",
         "example": 5000
       },
-      "fsiRate": {
+      "fsir": {
         "description": "The percentage of flight search initiations after viewing a module",
         "type": "number",
         "example": 0.5
